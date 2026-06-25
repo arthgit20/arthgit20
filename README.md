@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Arth Pareta here 👋
 
 <!--
 **arthgit20/arthgit20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
